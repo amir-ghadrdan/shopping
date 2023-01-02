@@ -1,0 +1,73 @@
+git init
+ls -ltrha
+ls -lstrh .git
+git status
+touch index.html
+git add index.html
+or 
+git add name file
+git commit -m "index file created"
+ls -ltrh
+change
+git add -A
+git commit -m "added there to the hi"
+git log
+git touch page1.text page2.text page3.text
+git add "page*"
+
+git commit -m "3page name"
+git diff HEAD(گیت کجاست االانننن)
+git diff --staged
+git diff <commit_Id_1> <commit_Id_2>
+git reset page3.html (az stage omad biron)
+git status
+git checkout -- page3.html   biron mikeshe az commit
+git branch
+git branch fixpages
+git branch
+git checkout fixpages=name
+git branch 
+touch footer.html
+git status
+git add -A
+
+git reset footr.html
+git commit -m "aad html to pages"
+git add -A
+git commit -m footer.html
+git branch 
+git checkout master
+git status
+git merge fixpages
+git log
+git rm namefile(clear file)
+cat namefile
+git branch -d namefile (delet) baed az merg kardan
+dakhle git hub
+git clone ipaddress
+cd namedirectory(project)(change directory)
+ls        (name file ro nshon mide)
+vi name-file (avaz mikone)
+git add -A 
+git commit -m ""
+git status
+git push origin master
+amirhsynqdrdan81@gmail.com
+amggh1383
+
+baed az taghir anline dadan dar git hub and commit an
+git pull origin master
+git diff master
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 

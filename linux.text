@@ -1,0 +1,56 @@
+sudo apt install links
+su -
+apt install links
+links addres(veb)
+clear
+mkdir(make a dircktory) name file
+cd test (chanche dir)
+cd ~
+mkdir happy
+mkdir happy/fun
+LS (SHOW inner to FILE DIRECTORY)
+cd happpy(miro to file happy)
+cd .. (barmigarde)
+ls
+clear
+RMDIR (REMOTE DIRECTORY) NAMEDIR
+rmdir --ignore namefile (not-empty file)
+GEDIT MYFILE.TEXT(GRAFICKALY)
+ls -ltrh   (namayesche)
+CAT MFILE.TEXT (SHOW CONTENTS OF A FILE)
+MAN CAT (RAHNAMAYE DASTORE)
+cat happy/fun/...
+CP   MYFILE.TEXT   WOVERINE.TXT (COPY FILE 1 TO FILE 2)
+cp  Woverine.text    FILE/.../.../
+ls -ltrh  file/.../
+ls -l ?.text  (text hay tak name)
+command -help
+command ls
+man -k ping(name command)
+RM NAMEFILE (REMOVE FILE)
+cd .(current dir)
+echo "name"
+~cout<<name;
+~ = home
+cd ~
+cd .. (parent dir)
+rm home/.../...
+rm *.text (all text)
+MV WOVERINT.TEXT SORRY/ (MOVE)
+mv mwolverint.text ..hi
+GREP NAME WOLVERINE.TEXT(NAMAYESH BEDE NAME RA DAR KHATHAYASH) 
+grep name file*.text(avalesh ba file shoro she va akharesh ba text tamom she)
+sudo command "ls -ltrh"‌(sudo dastor dar root mindaze)
+SUDO SU - (MESLE BALAYEE) IN OBUNTU
+cat syslog(all etefagh)
+less syslog (less beter az cat)
+gerp jadi syslog
+gerp jadi syslog | less
+(khrojy dastor ghably be eonvan vorodi jadid)
+
+
+
+
+
+
+
