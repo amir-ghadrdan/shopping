@@ -14,7 +14,7 @@ git commit -m "added there to the hi"
 git log
 git touch page1.text page2.text page3.text
 git add "page*"
-
+(boro to master) git merge namenewbranch
 git commit -m "3page name"
 git diff HEAD(گیت کجاست االانننن)
 git diff --staged
