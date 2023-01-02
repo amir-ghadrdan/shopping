@@ -29,7 +29,7 @@ git branch
 touch footer.html
 git status
 git add -A
-
+.
 git reset footr.html
 git commit -m "aad html to pages"
 git add -A
